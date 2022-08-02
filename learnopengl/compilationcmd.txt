@@ -1,0 +1,1 @@
+g++ external/src/glad.c gltest.cpp -o opengltest -lglfw3 -lGL -lX11 -lpthread -lXrandr -lXi -lglut -ldl -lassimp

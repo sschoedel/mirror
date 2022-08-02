@@ -1,0 +1,1 @@
+Big hexagonal mirror array
